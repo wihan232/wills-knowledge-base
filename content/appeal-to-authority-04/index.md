@@ -1,0 +1,3 @@
+---
+title: Appeal to Authority
+---

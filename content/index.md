@@ -7,6 +7,16 @@ tags:
 Logical fallacies are what their name suggests: they're mistakes in reasoning and logic, often shortcuts used to make statements sound more convincing. Understanding logical fallacies can improve our day to day life because it can often be vital to know whether the arguments that we use for our decisions are free of error.
 
 
+## Main Categoies
+- [[slippery-slope-01/index|Slippery Slope]]
+- [[hasty-generalization-02/index|Hasty Generalization]]
+- [[no-true-scotsman-03/index|No True Scotsman]]
+- [[appeal-to-authority-04/index|Appeal to Authority]]
+- [[sunk-cost-05/index|Sunk Cost]]
+- [[ad-hominem-06/index|Ad Hominem]]
+- [[straw-man-07/index|Strawman]]
+
+
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.

@@ -1,0 +1,3 @@
+---
+Title: No True Scotsman
+---
