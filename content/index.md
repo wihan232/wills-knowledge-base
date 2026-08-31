@@ -7,7 +7,7 @@ tags:
 Logical fallacies are what their name suggests: they're mistakes in reasoning and logic, often shortcuts used to make statements sound more convincing. Understanding logical fallacies can improve our day to day life because it can often be vital to know whether the arguments that we use for our decisions are free of error.
 
 
-## Main Categoies
+## Main Categories
 - [[slippery-slope-01/index|Slippery Slope]]
 - [[hasty-generalization-02/index|Hasty Generalization]]
 - [[no-true-scotsman-03/index|No True Scotsman]]
