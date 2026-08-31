@@ -1,3 +1,3 @@
 ---
-Title: No True Scotsman
+title: No True Scotsman
 ---

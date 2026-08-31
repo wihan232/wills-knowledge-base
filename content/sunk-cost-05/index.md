@@ -1,3 +1,3 @@
 ---
-Title: Sunk Cost
+title: Sunk Cost
 ---

@@ -1,3 +1,3 @@
 ---
-Title: Straw Man
+title: Straw Man
 ---

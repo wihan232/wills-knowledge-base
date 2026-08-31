@@ -1,3 +1,3 @@
 ---
-Title: Slippery Slope
+title: Slippery Slope
 ---
