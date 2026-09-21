@@ -18,5 +18,7 @@ The Ad-Hominem fallacy is defined as as one the many fallacies called Fallacies 
 The Ad-Hominem fallacy also falls into the category of fallacies known as informal fallacies. While formal fallacies resemble formally valid arguments, informal fallacies do not follow a structure of logical inference.
 
 ---
+### Reference
 
 
+Hansen, H. (2015, May 29). _Fallacies_. Stanford.Edu. https://plato.stanford.edu/entries/fallacies/#Loc

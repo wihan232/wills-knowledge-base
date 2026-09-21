@@ -31,3 +31,8 @@ Circumstantial ad-hominem is a ad-hominem argument that points out that the prop
 For example:
 - Person A argues that their corporation practices do not violate anti-trust laws.
 - Person A should not be trusted because they have interests with the business.
+
+---
+### Reference
+
+Hansen, H. (2015, May 29). _Fallacies_. Stanford.Edu. https://plato.stanford.edu/entries/fallacies/#Loc
