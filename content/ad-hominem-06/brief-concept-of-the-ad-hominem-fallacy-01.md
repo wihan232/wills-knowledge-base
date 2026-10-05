@@ -1,5 +1,6 @@
 ---
 title: Brief Concept of the Ad Hominem Fallacy
+date: 10-2-2026
 ---
 ---
 
@@ -19,6 +20,5 @@ The Ad-Hominem fallacy also falls into the category of fallacies known as inform
 
 ---
 ### Reference
-
 
 Hansen, H. (2015, May 29). _Fallacies_. Stanford.Edu. https://plato.stanford.edu/entries/fallacies/#Loc

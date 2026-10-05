@@ -1,5 +1,6 @@
 ---
 title: Ad Hominem
+date: 10-2-2026
 ---
 ## Contents
 - [[ad-hominem-06/brief-concept-of-the-ad-hominem-fallacy-01|Brief Concept of the Ad-Hominem Fallacy]]

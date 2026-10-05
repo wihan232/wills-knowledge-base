@@ -1,5 +1,6 @@
 ---
 title: Modern Examples and Usages
+date: 10-2-2026
 ---
 ---
 

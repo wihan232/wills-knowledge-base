@@ -1,5 +1,6 @@
 ---
 title: Defending Against the Ad-Hominem
+date: 10-2-2026
 ---
 ---
 

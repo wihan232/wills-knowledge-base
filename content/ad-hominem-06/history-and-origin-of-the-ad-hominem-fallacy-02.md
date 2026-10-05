@@ -1,5 +1,6 @@
 ---
 title: History and Origin of the Ad-Hominem Fallacy
+date: 10-2-2026
 ---
 ---
 ## Significant Historical Figures
