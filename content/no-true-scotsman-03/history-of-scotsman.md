@@ -6,6 +6,11 @@ date: 10-2-2026
 
 ## Significant Historical Figures
 
+### Antony Flew
+
+![[Antony_flew.jpg]]
+
+The term [[concept-scotsman|"No True Scotsman"]] was first coined by Antony Flew in one of his works. He mentions the term in his 1966 book _God & Philosophy_.
 
 ---
 
