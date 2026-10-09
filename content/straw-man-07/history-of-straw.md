@@ -20,7 +20,7 @@ A famous quote by Watts in his 1724 book, _Logick_, he mentions what would be cl
 
 ![[Douglas-Walton.webp]]
 
-Walton catelogued the first instance of straw man being taught as a informal fallacy in modern text books.
+Walton catelogued the first instances of straw man being taught as a informal fallacy in modern text books.
 
 
 ---
