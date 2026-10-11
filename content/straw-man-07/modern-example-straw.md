@@ -4,6 +4,12 @@ title: Modern Examples and Usages of Straw Man
 ---
 
 
+## Relevance in Modern Day
+
+
+
+## Real Life Examples
+
 ---
 
 ## Reference

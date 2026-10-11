@@ -4,7 +4,7 @@ date: 10-2-2026
 ---
 ---
 
-## Significant Historical Figures
+# Significant Historical Figures
 
 
 
